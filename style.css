@@ -16,14 +16,14 @@ body {
     width: 400px;
         
 }
-.cont-1{
+.cont__1{
     background-color: rgba(106,67,255,255);
     border-radius: 5px 5px 0px 0px;
     width: 400px;
     margin-bottom: 0px;
     height:40%;
 }
-.text-1{
+.cont__1-text{
     margin-top: 0px;
     padding-top:40px ;
     color: white;
@@ -37,7 +37,7 @@ body {
     border: none;
     border-radius: 5px;
 }
-.cont-2{
+.cont__2{
     display: grid;
     justify-content: center;
     background-color: rgba(244,244,244,255);
@@ -55,7 +55,7 @@ body {
     margin-top: 10px;
     font-size: 10px;
 }
-.text-2,.text-3,.text-4{
+.cont__2-text1,.cont__2-text2,.text-4{
     color: rgba(139,136,156,255);
     margin-bottom: 10px;
     font-weight: bolder;
